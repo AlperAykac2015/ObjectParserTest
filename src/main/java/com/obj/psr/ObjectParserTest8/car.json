@@ -1,0 +1,27 @@
+{
+
+  "recordNo":"ax001",
+   "recordType": "vehicle",
+  "cars": [
+    {
+      "brand": "Mercedes",
+      "doors": "4"
+    },
+    {
+      "brand": "Ford",
+      "doors": "1"
+    },
+    {
+      "brand": "Fiat",
+      "doors": "2"
+    },
+    {
+      "brand": "Audi",
+      "doors": "5"
+    },
+    {
+      "brand": "BMW",
+      "doors": "3"
+    }
+  ]
+}
