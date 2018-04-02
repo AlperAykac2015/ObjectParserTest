@@ -10,7 +10,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  *
  */
 /**
- * @author alper
+ * @author alper aykac
  *
  */
 public class App 
